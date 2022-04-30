@@ -1,0 +1,12 @@
+.Navbar {
+    background-color: rgb(28, 20, 96);
+    color: azure;
+    height: 400px;
+  }
+
+.Text {
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 100px;
+    font-size: 35px;
+}

@@ -1,12 +1,53 @@
 .Navbar {
-    background-color: rgb(28, 20, 96);
-    color: azure;
-    height: 400px;
-  }
+  background-color: rgb(28, 20, 96);
+  color: azure;
+  height: 400px;
+}
 
 .Text {
-    text-align: left;
-    padding-top: 20px;
-    padding-left: 100px;
-    font-size: 35px;
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 100px;
+  font-size: 25px;
+}
+
+.Categories {
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 100px;
+  font-size: 25px;
+}
+
+.Button {
+  color: rgb(255, 255, 255);
+  border: 2px solid #ffffff;
+  border-width: 2px;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  margin: 10px 2px;
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.Buttontext{
+  padding-left: 10px;
+}
+
+.Space {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Spacefirst {
+  padding-right: 20px;
+}
+
+.Para{
+  text-align: left;
+  padding-top: 20px;
+  padding-left: 100px;
+  font-size: 35px;
 }
